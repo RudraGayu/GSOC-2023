@@ -13,5 +13,6 @@ In summary, this project is about modernizing the printing infrastructure for Gu
 
 #Synopsis
 1. Pappl Mainloop Flow for different operation
+![Optional Text](Pappl_Mainloop_flow.jpg)
+2. Flow of gutenprinter-app ( current one retrofitted version ) 
 
-2. 
