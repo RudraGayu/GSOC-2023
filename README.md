@@ -14,5 +14,34 @@ In summary, this project is about modernizing the printing infrastructure for Gu
 #Synopsis
 1. Pappl Mainloop Flow for different operation
 ![Optional Text](Pappl_Mainloop_flow.jpg)
-2. Flow of gutenprinter-app ( current one retrofitted version ) 
+
+3. Flow of gutenprinter-app ( current one retrofitted version ) 
+![Optional Text](gutenprint_app_flow.jpg)
+
+5. First of all server get started using the command 
+For the demonstration purpose let’s use legacy-printer-app
+Sudo legacy-printer-app server
+Flow of running the pappl server
+![Optional Text](pappl_server_flow.jpg)
+
+7. Pappl-retrofit and pappl architecture link
+https://miro.com/app/board/uXjVNSQnNPI=/?share_link_id=311962033449
+
+
+# Repository Link
+
+https://github.com/RudraGayu/Native-Gutenprinter-app
+
+
+
+
+
+
+
+
+
+
+
+
+
 
